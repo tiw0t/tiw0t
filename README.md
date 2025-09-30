@@ -19,7 +19,7 @@ Em constante aprendizado, estou expandindo meus conhecimentos com o curso de AnÃ
 ## Plataformas de Aprendizado
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=049fd9&labelColor=000000)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white&labelColor=000000&link=https://www.udemy.com/)
-![Rocketseat](https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://rocketseat.com.br/)
+![Rocketseat](https://img.shields.io/badge/Rocketseat-1C1C1C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDUuNiAyNTIuNzkiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojZmZmO308L3N0eWxlPjwvZGVmcz48ZyBpZD0iQmFkZ2VzIiBkYXRhLW5hbWU9IkJhZGdlcyI%2BPGcgaWQ9IkxvZ29fUm9ja2V0c2VhdF9Bc2EiIGRhdGEtbmFtZT0iTG9nbw5Sb2NrZXRzZWF0IEFzYSI%2BPGxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEyMi44LDIuNTNjLTk0LjM1LDY1LjE4LTEyMi42NCwxMzYuMjctNzcuNzksMTg3LjQ3YTEwMCwxMDAsMCwwLDAsMTMuNzQsMTIuMTcsMTA3LjQsMTA3LjQsMCwwLDAsMTMyLjE2LDkuNDRDMTc2LjUzLDIwOC45MiwxNDcuMTMsMTQzLjUsMTIyLjgsMi41M1oiLz48L2c%2BPGwvZz48L3N2Zz4%3D&logoColor=white&link=https://bit.ly/SeuLinkRS)
 # ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiw0t&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tiw0t&theme=dark&hide_border=false)<br/>
