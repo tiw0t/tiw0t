@@ -1,5 +1,7 @@
 # Olá 🚀:
-Olá! Sou Timóteo, desenvolvedor Front-end proficiente em HTML5 e CSS3.Minhas competências técnicas abrangem React Native, TypeScript, JavaScript, Python e PostgreSQL.Em constante aprendizado, estou expandindo meus conhecimentos com o curso de Análise e Desenvolvimento de Sistemas.
+Olá! Sou Timóteo, desenvolvedor Front-end proficiente em HTML5 e CSS3.
+Minhas competências técnicas abrangem React Native, TypeScript, JavaScript, Python e PostgreSQL.
+Em constante aprendizado, estou expandindo meus conhecimentos com o curso de Análise e Desenvolvimento de Sistemas.
 
 
 # 💻 Tech Stack:
