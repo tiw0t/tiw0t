@@ -14,10 +14,12 @@ Em constante aprendizado, estou expandindo meus conhecimentos com o curso de AnÃ
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=000000)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=000000)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=049fd9&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=F05033&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+## Plataformas de Aprendizado
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=049fd9&labelColor=000000)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white&labelColor=000000&link=https://www.udemy.com/)
+![Rocketseat](https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocketseat&logoColor=white&labelColor=000000&link=https://rocketseat.com.br/)
 # ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiw0t&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tiw0t&theme=dark&hide_border=false)<br/>
