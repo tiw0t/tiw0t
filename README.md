@@ -23,12 +23,6 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white&labelColor=000000&link=https://www.udemy.com/)
 ![Rocketseat](https://img.shields.io/badge/ROCKETSEAT-271A45?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)
 
-### 📊 Activity and Statistics:
-
-![](https://github-readme-stats.vercel.app/api?username=tiw0t&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=tiw0t&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiw0t&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&langs_count=8)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tiw0t&icon=8&color=12)](https://visitcount.itsvg.in)
 
