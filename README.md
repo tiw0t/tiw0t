@@ -1,6 +1,6 @@
 ## Olá! Sou Timóteo <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
 
-Desenvolvedor **Front-end** proficiente, focado na construção de interfaces de usuário **responsivas, performáticas e acessíveis** utilizando **HTML5** e **CSS3**.
+Desenvolvedor **Front-end** proficiente, formado no curso de desenvolvimento de sistemas pela instituição SESI SENAI, focado na construção de interfaces de usuário **responsivas, performáticas e acessíveis** utilizando **HTML5** e **CSS3**.
 
 Minha base técnica sólida inclui **JavaScript** para a lógica Front-end, e versatilidade com **Python** e **PostgreSQL** (Back-end e Banco de Dados).
 
