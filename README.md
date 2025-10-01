@@ -12,6 +12,7 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=000000)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Expo](https://img.shields.io/badge/Expo-1F1E26?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000000)
@@ -27,12 +28,6 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 ![](https://github-readme-stats.vercel.app/api?username=tiw0t&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=tiw0t&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiw0t&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&langs_count=8)
-
----
-### 📈Recent Contributions:
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=tiw0t&theme=react-dark)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tiw0t&icon=8&color=12)](https://visitcount.itsvg.in)
