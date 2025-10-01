@@ -6,7 +6,7 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 
 **Em constante aprimoramento:** Atualmente, estou expandindo minha *stack* para o desenvolvimento **mobile** com **React Native** e aprimorando a escalabilidade do código com **TypeScript**. Também aprofundo a visão de negócio e arquitetura através do curso de **Análise e Desenvolvimento de Sistemas**.
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=000000&labelColor=000000&color=1572B6&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
@@ -22,12 +22,20 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white&labelColor=000000&link=https://www.udemy.com/)
 ![Rocketseat](https://img.shields.io/badge/ROCKETSEAT-271A45?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tiw0t&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tiw0t&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiw0t&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 📊 Activity and Statistics:
+
+![](https://github-readme-stats.vercel.app/api?username=tiw0t&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=tiw0t&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiw0t&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&langs_count=8)
+
+---
+### 📈Recent Contributions:
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=tiw0t&theme=react-dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tiw0t&icon=8&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
