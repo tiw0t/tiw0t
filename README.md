@@ -7,7 +7,8 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 **Em constante aprimoramento:** Atualmente, estou expandindo minha *stack* para o desenvolvimento **mobile** com **React Native** e aprimorando a escalabilidade do código com **TypeScript**. Também aprofundo a visão de negócio e arquitetura através do curso de **Análise e Desenvolvimento de Sistemas**.
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timóteobastos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timóteobastos) 
+
 ---
 
 ### 💻 Tech Stack:
