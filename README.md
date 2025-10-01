@@ -1,7 +1,11 @@
-## Olá <a href="URL_DO_SEU_PERFIL_GITHUB"><img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a> :
-Olá! Sou Timóteo, desenvolvedor Front-end proficiente em HTML5 e CSS3.<br></br>
-Minhas competências técnicas abrangem React Native, TypeScript, JavaScript, Python e PostgreSQL.<br></br>
-Em constante aprendizado, estou expandindo meus conhecimentos com o curso de Análise e Desenvolvimento de Sistemas.
+## Olá! Sou Timóteo <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
+
+Desenvolvedor **Front-end** proficiente, focado na construção de interfaces de usuário **responsivas, performáticas e acessíveis** utilizando **HTML5** e **CSS3**.
+
+Minha base técnica sólida inclui **JavaScript** para a lógica Front-end, e versatilidade com **Python** e **PostgreSQL** (Back-end e Banco de Dados).
+
+**Em constante aprimoramento:** Atualmente, estou expandindo minha *stack* para o desenvolvimento **mobile** com **React Native** e aprimorando a escalabilidade do código com **TypeScript**. Também aprofundo a visão sistêmica no curso de **Análise e Desenvolvimento de Sistemas**.
+
 
 
 # 💻 Tech Stack:
