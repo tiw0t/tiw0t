@@ -1,12 +1,10 @@
 ## Olá! Sou Timóteo <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
 
-Desenvolvedor **Front-end** proficiente, formado no curso de desenvolvimento de sistemas pela instituição SESI SENAI, focado na construção de interfaces de usuário **responsivas, performáticas e acessíveis** utilizando **HTML5** e **CSS3**.
+Desenvolvedor **Front-end** com sólida formação técnica em Desenvolvimento de Sistemas (**SESI SENAI**) e proficiência em **HTML5** e **CSS3**. Meu foco principal é construir interfaces de usuário **responsivas, performáticas e acessíveis**.
 
-Minha base técnica sólida inclui **JavaScript** para a lógica Front-end, e versatilidade com **Python** e **PostgreSQL** (Back-end e Banco de Dados).
+Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilidade em **Python** e **PostgreSQL**, demonstrando conhecimento do ciclo completo de aplicações (Back-end e Banco de Dados).
 
-**Em constante aprimoramento:** Atualmente, estou expandindo minha *stack* para o desenvolvimento **mobile** com **React Native** e aprimorando a escalabilidade do código com **TypeScript**. Também aprofundo a visão sistêmica no curso de **Análise e Desenvolvimento de Sistemas**.
-
-
+**Em constante aprimoramento:** Atualmente, estou expandindo minha *stack* para o desenvolvimento **mobile** com **React Native** e aprimorando a escalabilidade do código com **TypeScript**. Também aprofundo a visão de negócio e arquitetura através do curso de **Análise e Desenvolvimento de Sistemas**.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000)
