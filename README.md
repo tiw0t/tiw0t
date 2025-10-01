@@ -8,14 +8,6 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 
 ---
 
-[![LinkedIn Icon](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)[![LinkedIn Text](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/timóteobastos)
-
-
-[![LinkedIn Icon](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)[![LinkedIn Text](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&color=white)](SEU_LINK_DO_LINKEDIN)
-
-
----
-
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=000000&labelColor=000000&color=1572B6&logoColor=000000)
