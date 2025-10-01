@@ -8,7 +8,7 @@ Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilid
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/timóteobastos)
+[![LinkedIn Icon](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)[![LinkedIn Text](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/timóteobastos)
 
 ---
 
