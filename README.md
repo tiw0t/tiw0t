@@ -1,10 +1,20 @@
-## Olá! Sou Timóteo <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
+## About Me <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
 
-Desenvolvedor **Front-end** com sólida formação técnica em Desenvolvimento de Sistemas (**SESI SENAI**) e proficiência em **HTML5** e **CSS3**. Meu foco principal é construir interfaces de usuário **responsivas, performáticas e acessíveis**.
+I’m Timóteo, a Front-End Developer with a strong technical background in Systems Development (SESI SENAI) and a solid proficiency in HTML5 and CSS3. My goal is to build modern, responsive, and accessible user interfaces, always focusing on user experience and application performance.
 
-Minha base técnica inclui **JavaScript** para a lógica Front-end, e versatilidade em **Python** e **PostgreSQL**, demonstrando conhecimento do ciclo completo de aplicações (Back-end e Banco de Dados).
+With a strong foundation in JavaScript, I’m committed to delivering efficient, scalable solutions for Front-End development. Additionally, I have hands-on experience with Python and PostgreSQL, allowing me to work across the full development stack, from Back-End to database management.
 
-**Em constante aprimoramento:** Atualmente, estou expandindo minha *stack* para o desenvolvimento **mobile** com **React Native** e aprimorando a escalabilidade do código com **TypeScript**. Também aprofundo a visão de negócio e arquitetura através do curso de **Análise e Desenvolvimento de Sistemas**.
+Currently, I’m expanding my skills into mobile development with React Native, and enhancing my code scalability and robustness with TypeScript. I’m also deepening my business and system architecture knowledge through a course in Systems Analysis and Development, always striving to align technology with market needs.
+
+What Sets Me Apart
+
+Full Stack Development: Beyond Front-End, I have experience with Back-End and database integration, offering a comprehensive understanding of the entire software development lifecycle.
+
+Performance & Accessibility Focused: I believe a successful application is one that is fast and accessible to all users, regardless of device or ability.
+
+Continuous Learning: I am always on the lookout for new technologies and best practices to improve my code quality and deliver innovative solutions.
+
+I’m actively seeking opportunities that allow me to apply my expertise, while also learning and growing with new challenges. My goal is to contribute to teams and business growth in a strategic way.
 
 ---
 
