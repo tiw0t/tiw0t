@@ -28,6 +28,10 @@ I am actively seeking opportunities that allow me to apply and deepen my Full St
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=F05033&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-22333b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+
+---
+
+### 📖learning platforms:
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=049fd9&labelColor=000000)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white&labelColor=000000&link=https://www.udemy.com/)
 ![Rocketseat](https://img.shields.io/badge/ROCKETSEAT-271A45?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)
