@@ -1,4 +1,4 @@
-## Professional Profile - Full Stack Developer <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
+## Perfil Profissional - Full Stack Developer <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
 Sou o Timóteo, Técnico em Desenvolvimento de Sistemas pelo SENAI e graduando em Análise e Desenvolvimento de Sistemas (ADS). Possuo uma base sólida em lógica de programação, HTML5, CSS3 e modelagem de dados com PostgreSQL.
 Atualmente, dedico meus estudos ao ecossistema JavaScript (ES6+), focando no aprendizado prático de React JS para web e no desenvolvimento mobile com React Native e Flutter.
 Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos técnicos, colaborar com times experientes e acelerar minha evolução em tecnologias modernas e metodologias ágeis.
