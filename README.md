@@ -1,22 +1,17 @@
 ## 🛡️ Perfil Profissional - Cybersecurity Aspirant <img src="https://emojis.directory/wp-content/uploads/2022/11/microsoft-teams-gifs_rocket_1f680.png" width="25px"></a>:
 
-Sou o Timóteo, Técnico em Desenvolvimento de Sistemas pelo SENAI e graduando em Análise e Desenvolvimento de Sistemas (ADS). Possuo uma base sólida em lógica de programação, HTML5, CSS3 e modelagem de dados com PostgreSQL.
+Sou o Timóteo, Técnico em Desenvolvimento de Sistemas pelo SENAI e graduando em Sistemas de Informação pela UNINTER. Possuo uma base sólida em lógica de programação, orientação a objetos e modelagem de dados com PostgreSQL.
 
-Atualmente, estou iniciando minha transição para a área de **Segurança da Informação**, focando no aprendizado dos fundamentos de **Cybersecurity**, redes e análise de sistemas.
+Atualmente, estou direcionando minha carreira e estudos para a área de Segurança em Nuvem (Cloud Security) e Engenharia de Segurança. Utilizo minha bagagem em lógica e desenvolvimento para entender a arquitetura de sistemas, automatizar rotinas de segurança e apoiar na proteção e conformidade de infraestruturas em nuvem.
 
-Minha base em desenvolvimento me ajuda a entender como aplicações funcionam, facilitando a identificação de possíveis falhas e vulnerabilidades.
+Busco minha primeira oportunidade na área de TI/Segurança para aplicar meus conhecimentos, colaborar com a equipe e evoluir na construção de ambientes de nuvem seguros e resilientes.
 
-Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos técnicos, evoluir na área de tecnologia e, futuramente, atuar com **defesa cibernética**.
+🧠 Conhecimentos & Foco de Estudo:
+Desenvolvimento & Automação: Lógica de Programação, Git/GitHub, Scripts de Automação.
 
----
+Banco de Dados: PostgreSQL.
 
-## 🧠 Conhecimentos Técnicos:
-
-**Base:** JavaScript, Lógica de Programação, Git/GitHub, HTML5 e CSS3.  
-
-**Banco de Dados:** PostgreSQL.  
-
-**Fundamentos em estudo:** Redes, Sistemas Operacionais e Cybersecurity.  
+Segurança em Nuvem & Infraestrutura (Em estudo): Fundamentos de Nuvem (AWS/Azure), IAM (Gestão de Identidades e Acessos), Redes, Sistemas Operacionais (Linux/Windows) e Conceitos de Segurança da Informação.  
 
 ---
 
