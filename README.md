@@ -6,17 +6,19 @@ Atualmente, estou direcionando minha carreira e estudos para a área de Seguran�
 
 Busco minha primeira oportunidade na área de TI/Segurança para aplicar meus conhecimentos, colaborar com a equipe e evoluir na construção de ambientes de nuvem seguros e resilientes.
 
-🧠 Conhecimentos & Foco de Estudo:
-Desenvolvimento & Automação: Lógica de Programação, Git/GitHub, Scripts de Automação.
+## 🧠 Conhecimentos & Foco de Estudo:
+---
 
-Banco de Dados: PostgreSQL.
+-Desenvolvimento & Automação: Lógica de Programação, Git/GitHub, Scripts de Automação.
 
-Segurança em Nuvem & Infraestrutura (Em estudo): Fundamentos de Nuvem (AWS/Azure), IAM (Gestão de Identidades e Acessos), Redes, Sistemas Operacionais (Linux/Windows) e Conceitos de Segurança da Informação.  
+-Banco de Dados: PostgreSQL.
+
+-Segurança em Nuvem & Infraestrutura (Em estudo): Fundamentos de Nuvem (AWS/Azure), IAM (Gestão de Identidades e Acessos), Redes, Sistemas Operacionais (Linux/Windows) e Conceitos de Segurança da Informação.  
 
 ---
 
 ### 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000000)
@@ -33,10 +35,13 @@ Segurança em Nuvem & Infraestrutura (Em estudo): Fundamentos de Nuvem (AWS/Azur
 ---
 
 ### ✏️ I am studying:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=000000)
-![Redes](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=000000)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=000000)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=5391FE&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF&labelColor=000000)
 
 ---
 
